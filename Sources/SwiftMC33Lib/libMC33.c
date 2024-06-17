@@ -13,7 +13,7 @@
 #define compiling_libMC33
 /********************************CUSTOMIZING**********************************/
 //The following line can be only changed before compiling the library:
-//#define MC_Normal_neg // the front and back surfaces are exchanged.
+#define MC_Normal_neg // the front and back surfaces are exchanged.
 /*****************************************************************************/
 
 #include "./include/marching_cubes_33.h"
